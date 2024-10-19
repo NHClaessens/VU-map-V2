@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d70ced4ca072fb244bc1cd998a41836a, type: 3}
+  m_Name: CSVImporterSettings
+  m_EditorClassIdentifier: 
+  items:
+  - csvFiles:
+    - {fileID: 4900000, guid: 62cd200e038edcd41954695a541136a1, type: 3}
+    color: {r: 0, g: 0.054581404, b: 1, a: 0}
+    parentObjectName: AP locations
+    xColumnName: x
+    yColumnName: z
+    zColumnName: y
+    nameColumnName: name
+    xAddition: 0
+    yAddition: 0
+    zAddition: 0
+    xMultiplier: 1
+    yMultiplier: 1
+    zMultiplier: 1
+    heightReplacements:
+    - 5, 21.5
+    - 6, 25.4
+  - csvFiles:
+    - {fileID: 4900000, guid: 575bbe7a87a481243aa92bc6b8ccad59, type: 3}
+    - {fileID: 4900000, guid: 7c492c5e964b8b44482ed1b34e22f983, type: 3}
+    - {fileID: 4900000, guid: 2d68fa82255cdd843bf21b99da4432b0, type: 3}
+    - {fileID: 4900000, guid: 6c64bcfdb2deea244bd07b00730bc429, type: 3}
+    - {fileID: 4900000, guid: 4714c8b23c750df41b5f633e90a2dfcc, type: 3}
+    - {fileID: 4900000, guid: 927057115d222d24e979e5df3d963671, type: 3}
+    - {fileID: 4900000, guid: 183bef1b5d1113243af8114b807c331c, type: 3}
+    - {fileID: 4900000, guid: 2aeb8d772239bab40a6721545da51f39, type: 3}
+    - {fileID: 4900000, guid: 0b0a085f81080ca4c935187df496b786, type: 3}
+    color: {r: 1, g: 0.960876, b: 0, a: 0}
+    parentObjectName: Samples F6
+    xColumnName: x
+    yColumnName: z
+    zColumnName: y
+    nameColumnName: 
+    xAddition: 0
+    yAddition: 0
+    zAddition: 0
+    xMultiplier: 1
+    yMultiplier: 1
+    zMultiplier: 1
+    heightReplacements:
+    - 5, 21.5
+    - 6, 25.4
+  - csvFiles:
+    - {fileID: 4900000, guid: dd4aa0428c8bf934797d08109f3eadac, type: 3}
+    - {fileID: 4900000, guid: ff008df961900c84fb79a1d1d1110063, type: 3}
+    - {fileID: 4900000, guid: 0e6cb2851474cd748bcc1f5e0daff9d1, type: 3}
+    - {fileID: 4900000, guid: 75d3dce4a8ac5f94db5660ea92238bec, type: 3}
+    - {fileID: 4900000, guid: ebcda788b2e9ef74e88c2971edb56db5, type: 3}
+    - {fileID: 4900000, guid: a88481470ec0d484682ce45ff64b7f1f, type: 3}
+    - {fileID: 4900000, guid: 6f7a9bec3c7352f44bcc9ad97c6fe854, type: 3}
+    - {fileID: 4900000, guid: d7ddc7abd80e2394db736fa2771bd7f7, type: 3}
+    color: {r: 1, g: 0.960876, b: 0, a: 0}
+    parentObjectName: Samples F5
+    xColumnName: x
+    yColumnName: z
+    zColumnName: y
+    nameColumnName: 
+    xAddition: 0
+    yAddition: 0
+    zAddition: 0
+    xMultiplier: 1
+    yMultiplier: 1
+    zMultiplier: 1
+    heightReplacements:
+    - 5, 21.5
+    - 6, 25.4
